@@ -1,4 +1,4 @@
-Clone the repository:
+Clone this repository:
 
 
 
