@@ -10,7 +10,7 @@ interface IInfoCard {
 const infoCards: IInfoCard[] = [
     {
         title: "Increased Sales",
-        bodyText: " Insightful's predictive analytics identify high-value prospects for targeted pitches, boosting conversion rates and sales by up to 20%.",
+        bodyText: "Insightful's predictive analytics identify high-value prospects for targeted pitches, boosting conversion rates and sales by up to 20%.",
         icon: ArrowUpNarrowWide,
         id: 1
     },
@@ -22,7 +22,7 @@ const infoCards: IInfoCard[] = [
     },
     {
         title: "Decreased Churn",
-        bodyText: " Insightful's AI lead engagement and renewal tools reduce customer churn by up to 30% through consistent outreach and retention opportunities.",
+        bodyText: "Insightful's AI lead engagement and renewal tools reduce customer churn by up to 30% through consistent outreach and retention opportunities.",
         icon: ArrowDownNarrowWide,
         id: 3
     },
