@@ -18,6 +18,7 @@ npm install
 
 Run the development server:
 
-
+lucide-react
+lucide spline 
 
 npm run dev
